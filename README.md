@@ -26,7 +26,8 @@
 ## What I'm Working On
 
 - 🏗️ Building out the LunoLabs Makerspace in Altendorf (launching Spring 2026)
-- 🤝 Partnering with [Jugendbüro March](https://lunolabs.ch) for the Technik-Treff Siebnen
+- 🤝 Partnering with Jugendbüro March for the Technik-Treff Siebnen
+- 🎓 Building an adaptive AI learning platform with personalized courses and knowledge graphs
 - 📦 Developing the Context Box — local-first AI infrastructure for SMEs
 - 📚 Creating open learning content for electronics, robotics & coding
 
