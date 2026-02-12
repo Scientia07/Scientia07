@@ -50,11 +50,25 @@
 
 ---
 
-## Featured Projects
+## Open Source Projects
 
+### Maker & Education
 | Project | Description |
 |---------|-------------|
+| [**learn-electronics**](https://github.com/Scientia07/learn-electronics) | Open-source electronics learning path — from basics to building |
+| [**maker-projects**](https://github.com/Scientia07/maker-projects) | Documented maker projects with instructions, BOMs & lessons learned |
 | [**Luno-AI**](https://github.com/Scientia07/Luno-AI) | Educational AI exploration platform with layered learning (L0–L4) |
+
+### AI & Local-First
+| Project | Description |
+|---------|-------------|
+| [**awesome-local-ai**](https://github.com/Scientia07/awesome-local-ai) | Curated list of local-first AI tools, frameworks & self-hosted solutions |
+| [**mcp-starter**](https://github.com/Scientia07/mcp-starter) | Starter templates for building MCP servers (TypeScript + Python) |
+
+### Developer Tools & Infra
+| Project | Description |
+|---------|-------------|
+| [**homelab**](https://github.com/Scientia07/homelab) | Self-hosted infrastructure — Proxmox, Docker, networking & automation |
 | [**Luno-Future-Docs**](https://github.com/Scientia07/Luno-Future-Docs) | Next-gen documentation — PDF and Word are dead, long live coding docs |
 | [**LunoLabs-Clipboard**](https://github.com/Scientia07/LunoLabs-Clipboard) | Cross-platform clipboard tool built in Rust |
 | [**dev-setup**](https://github.com/Scientia07/dev-setup) | Quick developer environment setup for AI-powered workflows |
